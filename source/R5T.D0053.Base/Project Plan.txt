@@ -1,0 +1,4 @@
+R5T.D0053.Base - IGmailAuthenticationProvider (R5T.Aalborg.Abstractions-based) base service definitions library.
+
+Goals
+
